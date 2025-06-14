@@ -131,4 +131,3 @@ claim-insurance/
 
 ---
 
-Let me know if you'd like the README in `.md` or `.rst` format, or integrated with GitHub Wiki pages.

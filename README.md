@@ -30,7 +30,7 @@ We have completed data preprocessing, exploratory data analysis (EDA), and struc
 | Feature Engineering    | Log transformation, binning, encoding              | ✅ Done             |
 | EDA                    | Univariate, bivariate, multivariate visualizations | ✅ Done             |
 | Feature Selection Prep | Dropped high-cardinality or redundant variables    | ✅ Done             |
-| ML Modeling            | Model training and evaluation                      | 🚧 Not yet started |
+| ML Modeling            | Model training and evaluation                      | ✅ Done             |
 
 ---
 

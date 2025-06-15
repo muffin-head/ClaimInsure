@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/ssutk2/OneDrive%20-%20Cardiff%20University/Documents/ClaimInsure/Modeling/mlruns/754844038590534812/777237bb74a9434d97d767b7cc0919ba/artifacts
+end_time: 1749978319106
+entry_point_name: ''
+experiment_id: '754844038590534812'
+lifecycle_stage: active
+run_id: 777237bb74a9434d97d767b7cc0919ba
+run_name: xgboost_randomsearch
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749978281323
+status: 3
+tags: []
+user_id: ssutk2

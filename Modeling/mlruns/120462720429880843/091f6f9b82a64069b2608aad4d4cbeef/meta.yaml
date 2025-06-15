@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/ssutk2/OneDrive%20-%20Cardiff%20University/Documents/ClaimInsure/Modeling/mlruns/120462720429880843/091f6f9b82a64069b2608aad4d4cbeef/artifacts
+end_time: 1749982020283
+entry_point_name: ''
+experiment_id: '120462720429880843'
+lifecycle_stage: active
+run_id: 091f6f9b82a64069b2608aad4d4cbeef
+run_name: scaler_log_runV2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749982020152
+status: 3
+tags: []
+user_id: ssutk2

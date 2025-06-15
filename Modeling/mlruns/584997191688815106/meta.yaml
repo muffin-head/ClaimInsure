@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/ssutk2/OneDrive%20-%20Cardiff%20University/Documents/ClaimInsure/Modeling/mlruns/584997191688815106
+creation_time: 1749983345299
+experiment_id: '584997191688815106'
+last_update_time: 1749983345299
+lifecycle_stage: active
+name: xgboost_top_features

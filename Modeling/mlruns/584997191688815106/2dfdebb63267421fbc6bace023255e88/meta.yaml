@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/ssutk2/OneDrive%20-%20Cardiff%20University/Documents/ClaimInsure/Modeling/mlruns/584997191688815106/2dfdebb63267421fbc6bace023255e88/artifacts
+end_time: 1749983354859
+entry_point_name: ''
+experiment_id: '584997191688815106'
+lifecycle_stage: active
+run_id: 2dfdebb63267421fbc6bace023255e88
+run_name: final_xgb_top_8_features
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749983345315
+status: 3
+tags: []
+user_id: ssutk2

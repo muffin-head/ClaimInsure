@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/ssutk2/OneDrive%20-%20Cardiff%20University/Documents/ClaimInsure/Modeling/mlruns/409265423221509783/772bc405eea74be58f126e278914703a/artifacts
+deleted_time: 1749984442395
+end_time: 1749984330659
+entry_point_name: ''
+experiment_id: '409265423221509783'
+lifecycle_stage: deleted
+run_id: 772bc405eea74be58f126e278914703a
+run_name: ensemble_base_models
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749984309970
+status: 3
+tags: []
+user_id: ssutk2

@@ -1,0 +1,22 @@
+artifact_path: file:///c:/Users/ssutk2/OneDrive%20-%20Cardiff%20University/Documents/ClaimInsure/Modeling/mlruns/944064179747221248/models/m-31765b7f27e2408eb0ba236d4d974357/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.2
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.6.1
+mlflow_version: 3.1.0
+model_id: m-31765b7f27e2408eb0ba236d4d974357
+model_size_bytes: 651181
+model_uuid: m-31765b7f27e2408eb0ba236d4d974357
+prompts: null
+run_id: 3c68c1abdbad4813af7cb8a49d39c4dd
+utc_time_created: '2025-06-15 10:38:09.810576'

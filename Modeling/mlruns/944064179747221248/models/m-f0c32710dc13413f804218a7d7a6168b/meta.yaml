@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/ssutk2/OneDrive%20-%20Cardiff%20University/Documents/ClaimInsure/Modeling/mlruns/944064179747221248/models/m-f0c32710dc13413f804218a7d7a6168b/artifacts
+creation_timestamp: 1749983786059
+experiment_id: '944064179747221248'
+last_updated_timestamp: 1749983794203
+model_id: m-f0c32710dc13413f804218a7d7a6168b
+model_type: null
+name: lightgbm_model
+source_run_id: 104addc6b3304ce49493b8608b52d92d
+status: 2
+status_message: null

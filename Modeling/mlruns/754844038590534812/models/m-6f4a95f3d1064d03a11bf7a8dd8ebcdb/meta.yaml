@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/ssutk2/OneDrive%20-%20Cardiff%20University/Documents/ClaimInsure/Modeling/mlruns/754844038590534812/models/m-6f4a95f3d1064d03a11bf7a8dd8ebcdb/artifacts
+creation_timestamp: 1749979263888
+experiment_id: '754844038590534812'
+last_updated_timestamp: 1749979271713
+model_id: m-6f4a95f3d1064d03a11bf7a8dd8ebcdb
+model_type: null
+name: catboost_tuned_model
+source_run_id: ae9c4e5888ef490a88737878d8a34e57
+status: 2
+status_message: null

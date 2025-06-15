@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/ssutk2/OneDrive%20-%20Cardiff%20University/Documents/ClaimInsure/Modeling/mlruns/944064179747221248/4751ff2b7990478b954932ca7cfdead5/artifacts
+end_time: 1749983707137
+entry_point_name: ''
+experiment_id: '944064179747221248'
+lifecycle_stage: active
+run_id: 4751ff2b7990478b954932ca7cfdead5
+run_name: lightgbm_baseline
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749983707050
+status: 4
+tags: []
+user_id: ssutk2

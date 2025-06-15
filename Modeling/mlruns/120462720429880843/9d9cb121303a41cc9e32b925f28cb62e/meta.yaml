@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/ssutk2/OneDrive%20-%20Cardiff%20University/Documents/ClaimInsure/Modeling/mlruns/120462720429880843/9d9cb121303a41cc9e32b925f28cb62e/artifacts
+end_time: 1749982444459
+entry_point_name: ''
+experiment_id: '120462720429880843'
+lifecycle_stage: active
+run_id: 9d9cb121303a41cc9e32b925f28cb62e
+run_name: LogisticRegressionBaselineV2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1749982434052
+status: 3
+tags: []
+user_id: ssutk2

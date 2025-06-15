@@ -1,0 +1,6 @@
+artifact_location: file:///c:/Users/ssutk2/OneDrive%20-%20Cardiff%20University/Documents/ClaimInsure/Modeling/mlruns/944064179747221248
+creation_time: 1749983707035
+experiment_id: '944064179747221248'
+last_update_time: 1749983707035
+lifecycle_stage: active
+name: insure_claim_lightgbm

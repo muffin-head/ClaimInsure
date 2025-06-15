@@ -1,0 +1,6 @@
+,policy_id,subscription_length,customer_age,vehicle_age,model,fuel_type,max_torque,region_code,region_density,segment,claim_status
+124,POL030455,5.2,45,2.0,M4,Diesel,250Nm@2750rpm,C1,4990,C2,0
+125,POL008274,2.6,39,1.8,M4,Diesel,250Nm@2750rpm,C1,4990,C2,0
+126,POL008619,11.7,39,1.2,M4,Diesel,250Nm@2750rpm,C1,4990,C2,1
+127,POL052957,2.2,38,0.2,M4,Diesel,250Nm@2750rpm,C1,4990,C2,0
+140,POL057486,5.6,35,1.2,M4,Diesel,250Nm@2750rpm,C1,4990,C2,1

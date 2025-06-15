@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/ssutk2/OneDrive%20-%20Cardiff%20University/Documents/ClaimInsure/Modeling/mlruns/409265423221509783/models/m-1d15c15b17e34bbbb7d8c06e54462328/artifacts
+creation_timestamp: 1749984321831
+experiment_id: '409265423221509783'
+last_updated_timestamp: 1749984330627
+model_id: m-1d15c15b17e34bbbb7d8c06e54462328
+model_type: null
+name: ensemble_base_model
+source_run_id: 772bc405eea74be58f126e278914703a
+status: 2
+status_message: null

@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/ssutk2/OneDrive%20-%20Cardiff%20University/Documents/ClaimInsure/Modeling/mlruns/754844038590534812/models/m-63745160dab54ae0b10cf4a2686bab85/artifacts
+creation_timestamp: 1749977704043
+experiment_id: '754844038590534812'
+last_updated_timestamp: 1749977711397
+model_id: m-63745160dab54ae0b10cf4a2686bab85
+model_type: null
+name: logistic regression
+source_run_id: d36a13d80d5c49a09382e610aa4625be
+status: 2
+status_message: null

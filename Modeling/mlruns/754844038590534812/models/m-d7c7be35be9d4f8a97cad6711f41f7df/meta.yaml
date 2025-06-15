@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/ssutk2/OneDrive%20-%20Cardiff%20University/Documents/ClaimInsure/Modeling/mlruns/754844038590534812/models/m-d7c7be35be9d4f8a97cad6711f41f7df/artifacts
+creation_timestamp: 1749980892035
+experiment_id: '754844038590534812'
+last_updated_timestamp: 1749980899486
+model_id: m-d7c7be35be9d4f8a97cad6711f41f7df
+model_type: null
+name: final_xgboost_model_smote
+source_run_id: 1b88d952c72444118f6d2e7ce485de58
+status: 2
+status_message: null

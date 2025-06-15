@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/ssutk2/OneDrive%20-%20Cardiff%20University/Documents/ClaimInsure/Modeling/mlruns/944064179747221248/models/m-31765b7f27e2408eb0ba236d4d974357/artifacts
+creation_timestamp: 1749983889699
+experiment_id: '944064179747221248'
+last_updated_timestamp: 1749983898694
+model_id: m-31765b7f27e2408eb0ba236d4d974357
+model_type: null
+name: xgb_cat_logreg_ensemble_model
+source_run_id: 3c68c1abdbad4813af7cb8a49d39c4dd
+status: 2
+status_message: null

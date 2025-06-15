@@ -31,7 +31,7 @@ We have completed data preprocessing, exploratory data analysis (EDA), and struc
 | EDA                    | Univariate, bivariate, multivariate visualizations | ✅ Done             |
 | Feature Selection Prep | Dropped high-cardinality or redundant variables    | ✅ Done             |
 | ML Modeling            | Model training and evaluation                      | ✅ Done             |
-
+| CICD           | Model containerizing and Git deployment                      | Pending            |
 ---
 
 ## 📦 Data Sources
